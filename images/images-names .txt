@@ -1,0 +1,13 @@
+home.jpg
+wildlife.jpg
+medical.jpg
+eco.jpg
+cultural.jpg
+adventure.jpg
+wellness.jpg
+homestay.jpg
+guides.jpg
+hotels.jpg
+emergency.jpg
+map.jpg
+contact.jpg
